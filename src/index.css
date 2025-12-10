@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@layer utilities {
+  .text-stroke {
+    -webkit-text-stroke: 2px black;
+  }
+}
+
+* {
+    font-family: sans-serif;
+}
